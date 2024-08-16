@@ -1,0 +1,18 @@
+.card{
+  transition: all 0.3s;
+}
+.card:hover{
+  transform: scale(1.15);
+}
+.img{
+  transition: all 0.3s;
+}
+.img:hover{
+  transform: scale(1.15);
+}
+.card1{
+  transition: all 0.3s;
+}
+.card1:hover{
+  transform: scale(1.13);
+}
